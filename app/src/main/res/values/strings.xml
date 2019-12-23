@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationBasicSample</string>
+    <string name="title_menu_third">세번째메뉴</string>
+    <string name="title_menu_second">두번째메뉴</string>
+    <string name="title_menu_first">첫번째메뉴</string>
+    <string name="title_depth_second">투뎁스 화면입니다.</string>
+</resources>
